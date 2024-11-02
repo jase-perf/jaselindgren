@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lindgren;Jase;;;
+FN:Jase Lindgren
+ORG:Perforce Software
+ADR;TYPE=WORK:400 First Avenue North #400
+Minneapolis, MN 55401
+TITLE:Senior Solutions Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:jlindgren@perforce.com
+URL;TYPE=Digital Business Card:https://jaselindgren.com
+URL:https://www.perforce.com/products/helix-core
+URL;TYPE=Line:https://line.me/ti/p/ringuren
+URL;TYPE=WhatsApp:https://wa.me/qr/CTZUN6PZGZZZL1
+URL;TYPE=Website:https://www.perforce.com/products/helix-core
+URL;TYPE=GitHub:https://github.com/jase-perf
+URL;TYPE=LinkedIn:https://linkedin.com/in/jaselindgren
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Gaming, VFX, and Animation specialist
+UID:EnBizCard-100682549
+END:VCARD
